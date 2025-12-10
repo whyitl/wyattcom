@@ -28,7 +28,6 @@ export function generateSEOMetadata(props: SEOMetadataProps): Metadata {
     description,
     keywords,
     authors,
-    canonical,
     openGraph: {
       title,
       description,

@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-const baseUrl = "https://wyattlain.com";
+const baseUrl = "https://wyattlain.com"; // Updated for SEO
 const defaultDescription =
   "Finance-driven web developer in Calgary specializing in React, Next.js, and data-driven websites. Founder of TUCN Media. Fast, modern web solutions.";
 const defaultKeywords =
