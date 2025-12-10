@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 
-export const runtime = "edge";
+export const dynamic = "force-static";
 
 // Define your site routes here
 const routes = [
