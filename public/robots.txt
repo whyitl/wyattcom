@@ -1,0 +1,15 @@
+# Robots.txt for wyattlain.com
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /private
+
+# Crawl delay (optional, in seconds)
+Crawl-delay: 1
+
+# Specific rules for Googlebot
+User-agent: Googlebot
+Allow: /
+
+# Sitemap location
+Sitemap: https://wyattlain.com/sitemap.xml
